@@ -1,3 +1,5 @@
+# https://colab.research.google.com/drive/1CGEGECGLizBcshGUocQ5dRBsJh5EAdtD
+
 # 📊 Phân Tích Giữ Chân Khách Hàng (Customer Retention Analytics)
 
 ## 🔍 Giới thiệu
